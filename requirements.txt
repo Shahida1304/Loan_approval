@@ -1,6 +1,10 @@
-fastapi
-uvicorn
+streamlit
 pandas
 numpy
-catboost
 scikit-learn
+catboost
+shap
+imblearn
+matplotlib
+seaborn
+
