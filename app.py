@@ -12,7 +12,7 @@ def load_model():
 
 model = load_model()
 
-st.title("Loan Default Prediction 🚀")
+st.title("Loan Default Prediction ")
 st.write("Enter loan applicant details to predict default risk.")
 
 # ------------------------------
